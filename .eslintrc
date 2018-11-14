@@ -14,7 +14,8 @@
   },
 
   "globals": {
-
+    "jQuery": false,
+    "$": false
   },
   
   "env": {
